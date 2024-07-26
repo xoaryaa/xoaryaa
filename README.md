@@ -23,7 +23,7 @@ Hi there! I'm Arya, a third-year undergraduate student from VJTI pursuing B.Tech
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xoaryaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoaryaa&layout=compact&theme=radical)
+
 
 ## 🔗 Connect with Me
 
