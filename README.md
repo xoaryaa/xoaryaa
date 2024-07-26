@@ -22,8 +22,8 @@ Hi there! I'm Arya, a third-year undergraduate student from VJTI pursuing B.Tech
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xoaryaa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoaryaa&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
@@ -33,7 +33,7 @@ Hi there! I'm Arya, a third-year undergraduate student from VJTI pursuing B.Tech
 
 
 
-![Profile Visits](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Visits](https://komarev.com/ghpvc/?username=xoaryaa&color=brightgreen)
 
 ## 🌟 Let's Innovate Together!
 
