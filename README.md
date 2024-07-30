@@ -24,7 +24,7 @@ Hello! I'm Arya, a final-year undergraduate student from VJTI pursuing B.Tech in
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=xoaryaa&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoaryaa&theme=dark" alt="xoaryaa" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoaryaa&theme=dark" alt="xoaryaa" /></p>-->
 
 
 
