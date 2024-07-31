@@ -10,7 +10,7 @@ Hello! I'm Arya, a final-year undergraduate student from VJTI pursuing B.Tech in
 ```bash
 npx xoaryaa
 ```
-<!--**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**-->
+👆 This command line tool can be found at [npx xoaryaa](https://github.com/xoaryaa/npx_card)
 
 
 
