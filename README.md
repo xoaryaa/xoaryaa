@@ -5,7 +5,12 @@
 
 Hello! I'm Arya, a final-year undergraduate student from VJTI pursuing B.Tech in Electronics and Telecommunications. I'm 21 years old and based in Mumbai, Maharashtra, India.
 
+👇 Hit in your console or terminal to connect with me.
 
+```bash
+npx xoaryaa
+```
+<!--**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**-->
 
 
 
