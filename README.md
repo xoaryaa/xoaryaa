@@ -29,7 +29,6 @@ npx xoaryaa
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=xoaryaa&theme=radical)
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoaryaa&theme=dark" alt="xoaryaa" /></p>-->
 
 
 
@@ -37,6 +36,8 @@ npx xoaryaa
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xoaryaa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoaryaa&layout=compact&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoaryaa&theme=dark" alt="xoaryaa" /></p>
+
 
 ## 🔗 Connect with Me
 
