@@ -41,10 +41,8 @@ npx xoaryaa
 
 
 
-
-
-## 🌟 Let's Innovate Together!
+<!--- ## 🌟 Let's Innovate Together!
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and new opportunities. Let's innovate and create something amazing together!
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoaryaa)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoaryaa) -->
