@@ -3,7 +3,7 @@
 
 <h1 align="Center">hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="30 px"/> i'm ARYA</h1>
 
-Hello! I'm Arya, a final-year undergraduate student from VJTI pursuing B.Tech in Electronics and Telecommunications. I'm 21 years old and based in Mumbai, Maharashtra, India.
+Hello! I'm Arya, a final-year undergraduate student from VJTI pursuing B.Tech in Electronics and Telecommunications. I'm 21 years old and based in Mumbai, India.
 
 👇 Hit in your console or terminal to connect with me
 
