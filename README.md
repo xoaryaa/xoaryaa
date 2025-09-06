@@ -1,6 +1,3 @@
-
-
-
 <h1 align="Center">hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="30 px"/> i'm Arya Tayshete</h1>
 
 Hello! I'm Arya Tayshete, a B.Tech graduate in Electronics and Telecommunications from VJTI, Mumbai. I'm 22 years old and looking for opportunities to build things.
