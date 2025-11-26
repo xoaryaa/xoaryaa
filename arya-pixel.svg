@@ -1,75 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="208" height="56" viewBox="0 0 208 56" shape-rendering="crispEdges">
-  <g fill="#FF7AC4">
-    <!-- A -->
-    <rect x="8" y="0" width="8" height="8" />
-    <rect x="16" y="0" width="8" height="8" />
-    <rect x="24" y="0" width="8" height="8" />
-    <rect x="0" y="8" width="8" height="8" />
-    <rect x="32" y="8" width="8" height="8" />
-    <rect x="0" y="16" width="8" height="8" />
-    <rect x="32" y="16" width="8" height="8" />
-    <rect x="0" y="24" width="8" height="8" />
-    <rect x="8" y="24" width="8" height="8" />
-    <rect x="16" y="24" width="8" height="8" />
-    <rect x="24" y="24" width="8" height="8" />
-    <rect x="32" y="24" width="8" height="8" />
-    <rect x="0" y="32" width="8" height="8" />
-    <rect x="32" y="32" width="8" height="8" />
-    <rect x="0" y="40" width="8" height="8" />
-    <rect x="32" y="40" width="8" height="8" />
-    <rect x="0" y="48" width="8" height="8" />
-    <rect x="32" y="48" width="8" height="8" />
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 120 24"
+     shape-rendering="crispEdges">
 
-    <!-- R -->
-    <rect x="56" y="0" width="8" height="8" />
-    <rect x="64" y="0" width="8" height="8" />
-    <rect x="72" y="0" width="8" height="8" />
-    <rect x="80" y="0" width="8" height="8" />
-    <rect x="48" y="8" width="8" height="8" />
-    <rect x="88" y="8" width="8" height="8" />
-    <rect x="48" y="16" width="8" height="8" />
-    <rect x="88" y="16" width="8" height="8" />
-    <rect x="48" y="24" width="8" height="8" />
-    <rect x="56" y="24" width="8" height="8" />
-    <rect x="64" y="24" width="8" height="8" />
-    <rect x="72" y="24" width="8" height="8" />
-    <rect x="80" y="24" width="8" height="8" />
-    <rect x="48" y="32" width="8" height="8" />
-    <rect x="80" y="32" width="8" height="8" />
-    <rect x="48" y="40" width="8" height="8" />
-    <rect x="72" y="40" width="8" height="8" />
-    <rect x="48" y="48" width="8" height="8" />
-    <rect x="88" y="48" width="8" height="8" />
+  <!-- Each rect is one "pixel" (block) -->
+  <!-- A -->
+  <rect class="px" x="0" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0s" fill="freeze" />
+  </rect>
+  <rect class="px" x="4" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.08s" fill="freeze" />
+  </rect>
+  <rect class="px" x="8" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.16s" fill="freeze" />
+  </rect>
+  <rect class="px" x="12" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.24s" fill="freeze" />
+  </rect>
+  <rect class="px" x="4" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.32s" fill="freeze" />
+  </rect>
+  <rect class="px" x="8" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.40s" fill="freeze" />
+  </rect>
 
-    <!-- Y -->
-    <rect x="104" y="0" width="8" height="8" />
-    <rect x="128" y="0" width="8" height="8" />
-    <rect x="112" y="8" width="8" height="8" />
-    <rect x="120" y="8" width="8" height="8" />
-    <rect x="120" y="16" width="8" height="8" />
-    <rect x="120" y="24" width="8" height="8" />
-    <rect x="120" y="32" width="8" height="8" />
-    <rect x="120" y="40" width="8" height="8" />
-    <rect x="120" y="48" width="8" height="8" />
+  <!-- R -->
+  <rect class="px" x="24" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.48s" fill="freeze" />
+  </rect>
+  <rect class="px" x="28" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.56s" fill="freeze" />
+  </rect>
+  <rect class="px" x="32" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.64s" fill="freeze" />
+  </rect>
+  <rect class="px" x="24" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.72s" fill="freeze" />
+  </rect>
+  <rect class="px" x="32" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.80s" fill="freeze" />
+  </rect>
+  <rect class="px" x="24" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.88s" fill="freeze" />
+  </rect>
+  <rect class="px" x="28" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.96s" fill="freeze" />
+  </rect>
+  <rect class="px" x="24" y="16" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.04s" fill="freeze" />
+  </rect>
+  <rect class="px" x="32" y="16" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.12s" fill="freeze" />
+  </rect>
 
-    <!-- A (again) -->
-    <rect x="168" y="0" width="8" height="8" />
-    <rect x="176" y="0" width="8" height="8" />
-    <rect x="184" y="0" width="8" height="8" />
-    <rect x="160" y="8" width="8" height="8" />
-    <rect x="192" y="8" width="8" height="8" />
-    <rect x="160" y="16" width="8" height="8" />
-    <rect x="192" y="16" width="8" height="8" />
-    <rect x="160" y="24" width="8" height="8" />
-    <rect x="168" y="24" width="8" height="8" />
-    <rect x="176" y="24" width="8" height="8" />
-    <rect x="184" y="24" width="8" height="8" />
-    <rect x="192" y="24" width="8" height="8" />
-    <rect x="160" y="32" width="8" height="8" />
-    <rect x="192" y="32" width="8" height="8" />
-    <rect x="160" y="40" width="8" height="8" />
-    <rect x="192" y="40" width="8" height="8" />
-    <rect x="160" y="48" width="8" height="8" />
-    <rect x="192" y="48" width="8" height="8" />
-  </g>
+  <!-- Y -->
+  <rect class="px" x="48" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.20s" fill="freeze" />
+  </rect>
+  <rect class="px" x="56" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.28s" fill="freeze" />
+  </rect>
+  <rect class="px" x="52" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.36s" fill="freeze" />
+  </rect>
+  <rect class="px" x="52" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.44s" fill="freeze" />
+  </rect>
+  <rect class="px" x="52" y="16" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.52s" fill="freeze" />
+  </rect>
+
+  <!-- A -->
+  <rect class="px" x="72" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.60s" fill="freeze" />
+  </rect>
+  <rect class="px" x="76" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.68s" fill="freeze" />
+  </rect>
+  <rect class="px" x="80" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.76s" fill="freeze" />
+  </rect>
+  <rect class="px" x="84" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.84s" fill="freeze" />
+  </rect>
+  <rect class="px" x="76" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.92s" fill="freeze" />
+  </rect>
+  <rect class="px" x="80" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="2.00s" fill="freeze" />
+  </rect>
 </svg>
