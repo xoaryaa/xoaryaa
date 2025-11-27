@@ -3,23 +3,30 @@
      shape-rendering="crispEdges">
 
   <!-- Each rect is one "pixel" (block) -->
-  <!-- A -->
-  <rect class="px" x="0" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+
+  <!-- A with clear mid horizontal bar -->
+  <rect class="px" x="4" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- top-left -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0s" fill="freeze" />
   </rect>
-  <rect class="px" x="4" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="8" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- top-right -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.08s" fill="freeze" />
   </rect>
-  <rect class="px" x="8" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="4" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- mid-left (crossbar) -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.16s" fill="freeze" />
   </rect>
-  <rect class="px" x="12" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="8" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- mid-right (crossbar) -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.24s" fill="freeze" />
   </rect>
-  <rect class="px" x="4" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="0" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- left leg -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.32s" fill="freeze" />
   </rect>
-  <rect class="px" x="8" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="12" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- right leg -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="0.40s" fill="freeze" />
   </rect>
 
@@ -69,23 +76,29 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.52s" fill="freeze" />
   </rect>
 
-  <!-- A -->
-  <rect class="px" x="72" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <!-- Final A with clear mid horizontal bar -->
+  <rect class="px" x="76" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- top-left -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.60s" fill="freeze" />
   </rect>
-  <rect class="px" x="76" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="80" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- top-right -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.68s" fill="freeze" />
   </rect>
-  <rect class="px" x="80" y="4" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="76" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- mid-left (crossbar) -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.76s" fill="freeze" />
   </rect>
-  <rect class="px" x="84" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="80" y="8" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- mid-right (crossbar) -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.84s" fill="freeze" />
   </rect>
-  <rect class="px" x="76" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="72" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- left leg -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="1.92s" fill="freeze" />
   </rect>
-  <rect class="px" x="80" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+  <rect class="px" x="84" y="12" width="4" height="4" fill="#FF7AC4" opacity="0">
+    <!-- right leg -->
     <animate attributeName="opacity" from="0" to="1" dur="0.08s" begin="2.00s" fill="freeze" />
   </rect>
 </svg>
