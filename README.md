@@ -18,8 +18,8 @@
 </h1>
 
 
-hiiii i'm Arya, a B.Tech graduate in Electronics and Telecommunication from VJTI, Mumbai 
-i'm 22 years old and looking for opportunities to build things.
+Hello i'm Arya, a B.Tech graduate in Electronics and Telecommunication from VJTI, Mumbai.  
+I'm 22 years old and looking for opportunities to build things.
 
 ↓ hit in your terminal to connect with me
 
