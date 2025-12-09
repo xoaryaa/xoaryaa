@@ -19,7 +19,7 @@
 
 
 Hello i'm Arya, a B.Tech graduate in Electronics and Telecommunication from VJTI, Mumbai.  
-I'm 22 years old and looking for opportunities to build things.
+I'm 23 💅🏻 years old and looking for opportunities to build things.
 
 ↓ hit in your terminal to connect with me
 
