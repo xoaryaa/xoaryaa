@@ -18,8 +18,7 @@
 </h1>
 
 
-Hello i'm Arya, a B.Tech graduate in Electronics and Telecommunication from VJTI, Mumbai.  
-I'm 23 💅🏻 years old and looking for opportunities to build things.
+Hello i'm Arya, studying Computer Engineering @ NYU.  
 
 ↓ hit in your terminal to connect with me
 
